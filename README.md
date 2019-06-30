@@ -3,8 +3,12 @@
 수학 프로그램을 활용한 수학탐구  (경남과학고등학교 교사 민은기)
 
 =======================================================
+- ##### 강의 영상(YouTube) : https://www.youtube.com/playlist?list=PL2aesTdeAw74NeviuK2lfpOenjTBjRKbR
+
 ### *AlgeoMath 전체 강의 순서
-- ##### 강의끝나고....
+- ##### 1 차시 : 기본적인 AlgeoMath 사용
+- ##### 2 차시 : 선분과 직선상의 한 점을 가지고 직각삼각형 작도하기 :  http://me2.do/5ZGXsJ4S
+- ##### 3 차시 : Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 
 ### *참고
 - ##### 각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
