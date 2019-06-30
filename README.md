@@ -3,7 +3,7 @@
 수학 프로그램을 활용한 수학탐구  (경남과학고등학교 교사 민은기)
 
 =======================================================
-- ##### 강의 영상(YouTube) : https://www.youtube.com/playlist?list=PL2aesTdeAw74NeviuK2lfpOenjTBjRKbR
+### *강의 영상(YouTube) : https://www.youtube.com/playlist?list=PL2aesTdeAw74NeviuK2lfpOenjTBjRKbR
 
 ### *AlgeoMath 전체 강의 순서
 - ##### 1 차시 : 기본적인 AlgeoMath 사용
