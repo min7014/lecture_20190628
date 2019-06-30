@@ -3,6 +3,9 @@
 수학 프로그램을 활용한 수학탐구  (경남과학고등학교 교사 민은기)
 
 =======================================================
+###  선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
+###  Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
+
 ### *강의 영상(YouTube) : https://www.youtube.com/playlist?list=PL2aesTdeAw74NeviuK2lfpOenjTBjRKbR
 
 - #### 00010 강사소개 : https://youtu.be/Z2W7hBMK_tg
@@ -17,6 +20,8 @@
 - #### 00100 AlgeoMath 에서 만든 자료 저장방법 및 피드설정 하기 : https://youtu.be/L4R6H7qqmdk
 - #### 00110 [AlgeoMath]작도문제에 대해 관심을 가진 계기(두 원의 공통 외접선 작도) : https://youtu.be/m3IdvGPu5mY
 - #### 00120 [AlgeoMath] 도형에서 중고등학교 함수 그래프 그리기 : https://youtu.be/rd1B2E_vmHI
+
+###  선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - #### 00130 [AlgeoMath] 선분과 직선 위의 한 점을 가지고(문제에 대한 설명) : https://youtu.be/vU6gKK30FdA
 - #### 00140 [AlgeoMath] 선분과 직선 위의 한 점을 가지고(직각삼각형 4개 작도) : https://youtu.be/CWqwQbUcFq4
 - #### 00150 [AlgeoMath] 선분과 직선 위의 한 점을 가지고(직각삼각형 3개 작도) : https://youtu.be/8wamxNSdIJM
