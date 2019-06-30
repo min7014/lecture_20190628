@@ -28,6 +28,8 @@
 - #### 00210 [AlgeoMath] 선분과 직선 위의 한 점을 가지고(공학도구를 쓰는 이유, 그리고 문제의 발전, 수업에 적용) : https://youtu.be/uMugNR93-XY
 - #### 00220 [AlgeoMath] 되돌리기 기능과 의의 : https://youtu.be/MxvybaHKgq0
 - #### 00230 수학교육에서 물음이 중요 : https://youtu.be/M9MjQrEhDa8
+
+###  Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - #### 00240 [AlgeoMath] Sierpinski triangle using the chaos game(소개) : https://youtu.be/z7PbAsbhT2A
 - #### 00250 [AlgeoMath] Sierpinski triangle using the chaos game(크기 변화를 위한 변수 블럭  만들기) : https://youtu.be/sNEyvJOnNa4
 - #### 00260 [AlgeoMath] Sierpinski triangle using the chaos game(점 만들기 블럭 사용) : https://youtu.be/VzJjNUnbfoM
