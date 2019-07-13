@@ -38,10 +38,8 @@
 
 ###  Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - #### 00240 [AlgeoMath] Sierpinski triangle using the chaos game(소개) : https://youtu.be/z7PbAsbhT2A
-- #### 00250 [AlgeoMath] Sierpinski triangle using the chaos game(크기 변화를 위한 변수 블럭  만들기) : https://youtu.be/sNEyvJOnNa4
-Sierpinski triangle using the chaos game 00010 
-AlgeoMath : http://me2.do/GhvXN1m7
-YouTube : https://youtu.be/ZEJsOJ-_kL
+- #### 00250 [AlgeoMath] Sierpinski triangle using the chaos game(크기 변화를 위한 변수 블럭  만들기) : https://youtu.be/sNEyvJOnNa4 
+Sierpinski triangle using the chaos game 00010 AlgeoMath : http://me2.do/GhvXN1m7 YouTube : https://youtu.be/ZEJsOJ-_kL
 - #### 00260 [AlgeoMath] Sierpinski triangle using the chaos game(점 만들기 블럭 사용) : https://youtu.be/VzJjNUnbfoM
 - #### 00270 [AlgeoMath] Sierpinski triangle using the chaos game(거북이 만들기 블럭  사용) : https://youtu.be/AW1qDqKcrV8
 - #### 00280 [AlgeoMath] Sierpinski triangle using the chaos game(거북이 회전하기 블럭 사용) : https://youtu.be/7HgO1Q9N5dw
