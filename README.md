@@ -45,7 +45,7 @@
 - #### 00290 [AlgeoMath] Sierpinski triangle using the chaos game(거북이 앞으로 이동하기 블럭 사용) : https://youtu.be/_44GsMdFI_g Sierpinski triangle using the chaos game 00050 AlgeoMath : http://me2.do/GZCkBsHf YouTube : https://youtu.be/OYAF1sJr73Y
 - #### 00300 [AlgeoMath] Sierpinski triangle using the chaos game(블럭코딩 단계적 실행) : https://youtu.be/XKxUMBVVh1c Sierpinski triangle using the chaos game 00060 AlgeoMath : http://me2.do/GaQOkeqC YouTube : https://youtu.be/WBRrtpfM6Go
 - #### 00310 [AlgeoMath] Sierpinski triangle using the chaos game(한변의 길이 계산을 위한 삼각함수 블럭사용) : https://youtu.be/FPNO8WiXpcU Sierpinski triangle using the chaos game 00070 AlgeoMath : http://me2.do/IxwROriI YouTube : https://youtu.be/bNPzk0rIlEA
-- #### 00320 [AlgeoMath] Sierpinski triangle using the chaos game(사용한 거북이 회전블럭과 이동블럭을 복제하여 다음단계 적용) : https://youtu.be/X25dwLrV_fU 
+- #### 00320 [AlgeoMath] Sierpinski triangle using the chaos game(사용한 거북이 회전블럭과 이동블럭을 복제하여 다음단계 적용) : https://youtu.be/X25dwLrV_fU Sierpinski triangle using the chaos game 00080 AlgeoMath : http://me2.do/GBDb1zrs YouTube : https://youtu.be/yWa7upbDcFw
 - #### 00330 [AlgeoMath] Sierpinski triangle using the chaos game(여러 번 반복하기 블럭을 사용하여 반복된 부분 제거하기) : https://youtu.be/s-NaEO5OiKE
 - #### 00340 [AlgeoMath] Sierpinski triangle using the chaos game(실행오류 대비하여 블럭코딩 실행전 저장) : https://youtu.be/Y4Btr-tP4S0
 - #### 00350 [AlgeoMath] Sierpinski triangle using the chaos game(인덱스 이름이 있는 점 작성제시 및 위치 가져오기 블럭 사용) : https://youtu.be/Zq4wA0u-tLQ
