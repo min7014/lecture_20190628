@@ -57,7 +57,7 @@
 - #### 00410 [AlgeoMath] Sierpinski triangle using the chaos game(실행 오류로 인하여 다른 사용자의 자료 가져와 저장) : https://youtu.be/28hBH2zmIEY
 - #### 00420 [AlgeoMath] Sierpinski triangle using the chaos game(점의 이름 감추기 블럭을 사용한 점의 이름 보이지 않게 하기) : https://youtu.be/82_WeRq5xas Sierpinski triangle using the chaos game 00160 AlgeoMath : http://me2.do/GFfZHRQ3 YouTube : https://youtu.be/hXvk2Sdsa_E
 - #### 00430 [AlgeoMath] Sierpinski triangle using the chaos game(블록정리 사용 및 자취를 줄 점 P를 만들기) : https://youtu.be/exRz3UHr_fk
-- #### 00440 [AlgeoMath] Sierpinski triangle using the chaos game(점 P를 계속이동하기 설정 및 임의의 정수 블럭 사용) : https://youtu.be/tB269Usds8M Sierpinski triangle using the chaos game 00170 AlgeoMath : http://me2.do/GkQu505X YouTube : https://youtu.be/F1yEwC73jXw
+- #### 00440 [AlgeoMath] Sierpinski triangle using the chaos game(점 P를 계속이동하기 설정 및 임의의 정수 블럭 사용) : https://youtu.be/tB269Usds8M Sierpinski triangle using the chaos game 00180 AlgeoMath : http://me2.do/xot2BSMs YouTube : https://youtu.be/N0FWWPW_Cm8
 - #### 00450 [AlgeoMath] Sierpinski triangle using the chaos game(중점의 좌표 계산하여 점 P 이동) : https://youtu.be/18x1R8CegaA
 - #### 00460 [AlgeoMath] Sierpinski triangle using the chaos game(잠시 기다리기 블럭을 활용하여 자취가 만들가지게 하여 블록코딩 완료) : https://youtu.be/oaxjtjHUXCo
 
